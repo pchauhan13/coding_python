@@ -1,0 +1,10 @@
+phrase = "Prashant"
+print(phrase + " is cool")
+print(phrase.upper())
+print(phrase.lower())
+print(phrase.isupper())
+print(phrase.islower())
+print(len(phrase))
+print(phrase[0])
+print(phrase.index("P"))
+print(phrase.replace("P", "p"))
